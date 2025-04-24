@@ -1,0 +1,5 @@
+here are the api endpoints for the assignment for testing
+
+For adding School: https://school-b.onrender.com/addSchool
+For viewing list of schools present in db: https://school-b.onrender.com/allSchools
+For Calculating the lat & Long : https://school-b.onrender.com/listSchools
